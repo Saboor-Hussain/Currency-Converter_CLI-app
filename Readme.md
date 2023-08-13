@@ -30,7 +30,7 @@ npm install
 4. Run the Currency Converter CLI application.
 
 ```bash
-npm start
+node index.js
 ```
 
 ## Usage
