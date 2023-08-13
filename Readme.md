@@ -50,9 +50,9 @@ This project uses the following npm packages:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-### License
+## License
 
-This project is licensed under the MIT License.
+### This project is licensed under the MIT License.
 ---
 
 This Currency Converter is a CLI-based application that runs in your terminal, allowing you to easily convert between different currencies using real exchange rates. It utilizes the [`inquirer`](https://www.npmjs.com/package/inquirer) package to provide an interactive interface and the [`chalk`](https://www.npmjs.com/package/chalk)` package to enhance text styling.
